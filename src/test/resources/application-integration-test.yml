@@ -1,0 +1,3 @@
+ads:
+  client:
+    endpoint: http://localhost:35082/ads-partner-stub

@@ -1,0 +1,31 @@
+ads:
+  client:
+    endpoint: https://us-central1-o7tools.cloudfunctions.net/fun7-ad-partner
+    credentials:
+      username: fun7user
+      password: fun7pass
+
+spring:
+  cloud:
+    openfeign:
+      circuitbreaker:
+        enabled: true
+  data:
+    mongodb:
+      database: fun7
+      authentication-database: admin
+      username: fun7dbuser
+      password: fun7dbpass
+      port: 27017
+      host: localhost
+      uuid-representation: standard
+
+logging:
+  level:
+    com:
+      outfit7:
+        fun7: DEBUG
+
+
+
+

@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "ads.partner.client.credentials.username",
+      "type": "java.lang.String",
+      "description": "Username for Basic Auth of external Ads partner service."
+    },
+    {
+      "name": "ads.partner.client.credentials.password",
+      "type": "java.lang.String",
+      "description": "Password for Basic Auth of external Ads partner service."
+    }
+  ] }

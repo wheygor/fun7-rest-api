@@ -1,0 +1,72 @@
+[
+  {
+    "_id": {
+      "$uuid": "192f614f-fd35-4c91-ad43-003fdaec345f"
+    },
+    "username": "woosh@fun7.si",
+    "playCount": 5
+  },
+  {
+    "_id": {
+      "$uuid": "34da8c81-8688-4db3-a9ef-2989ae14fea5"
+    },
+    "username": "user1@fun7.si",
+    "playCount": 2
+  },
+  {
+    "_id": {
+      "$uuid": "794a9497-bbee-4324-bd20-50af7f68d6c9"
+    },
+    "username": "user2@fun7.si",
+    "playCount": 3
+  },
+  {
+    "_id": {
+      "$uuid": "932d176b-87e5-4bcd-9e1a-7b6e678aeca8"
+    },
+    "username": "user3@fun7.si",
+    "playCount": 11
+  },
+  {
+    "_id": {
+      "$uuid": "924dcd9e-9449-4fca-90bc-cc3fa6d25ddd"
+    },
+    "username": "auser@fun7.si",
+    "playCount": 200
+  },
+  {
+    "_id": {
+      "$uuid": "cd2a73df-2b00-4ed0-9d79-082a3981bc35"
+    },
+    "username": "auser1@fun7.si",
+    "playCount": 44
+  },
+  {
+    "_id": {
+      "$uuid": "209c1101-d838-45f2-b41d-27a9e487663e"
+    },
+    "username": "auser2@fun7.si",
+    "playCount": 1
+  },
+  {
+    "_id": {
+      "$uuid": "447e6c08-a6f7-4f59-8fb3-46f73ec2bd4f"
+    },
+    "username": "auser3@fun7.si",
+    "playCount": 0
+  },
+  {
+    "_id": {
+      "$uuid": "5e6d919a-9de9-42d3-a167-7dd0ca9b2805"
+    },
+    "username": "woo@fun7.si",
+    "playCount": 5
+  },
+  {
+    "_id": {
+      "$uuid": "3ec23b4a-7439-4b5c-a3aa-7090b4e71cff"
+    },
+    "username": "buser@fun7.si",
+    "playCount": 5
+  }
+]
